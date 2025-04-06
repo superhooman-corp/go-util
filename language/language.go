@@ -19,5 +19,3 @@ func HTTPStatusText(lang string, code int) string {
 
 	return statusText
 }
-
-// test
