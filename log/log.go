@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/orgs/superhooman-corp/appcontext"
-	"github.com/orgs/superhooman-corp/errors"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
+	"github.com/superhooman-corp/go-util/appcontext"
+	"github.com/superhooman-corp/go-util/errors"
 )
 
 const (

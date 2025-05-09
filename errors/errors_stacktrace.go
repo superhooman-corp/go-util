@@ -3,7 +3,7 @@ package errors
 import (
 	"fmt"
 
-	"github.com/orgs/superhooman-corp/codes"
+	"github.com/superhooman-corp/go-util/codes"
 )
 
 type stacktrace struct {

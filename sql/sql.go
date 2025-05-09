@@ -12,9 +12,9 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
-	"github.com/orgs/superhooman-corp/codes"
-	"github.com/orgs/superhooman-corp/errors"
-	"github.com/orgs/superhooman-corp/log"
+	"github.com/superhooman-corp/go-util/codes"
+	"github.com/superhooman-corp/go-util/errors"
+	"github.com/superhooman-corp/go-util/log"
 )
 
 var ErrNotFound = sql.ErrNoRows

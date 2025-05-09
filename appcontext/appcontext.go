@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/orgs/superhooman-corp/codes"
-	"github.com/orgs/superhooman-corp/header"
-	"github.com/orgs/superhooman-corp/language"
+	"github.com/superhooman-corp/go-util/codes"
+	"github.com/superhooman-corp/go-util/header"
+	"github.com/superhooman-corp/go-util/language"
 )
 
 type contextKey string

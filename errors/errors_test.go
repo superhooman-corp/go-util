@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/orgs/superhooman-corp/codes"
-	"github.com/orgs/superhooman-corp/language"
+	"github.com/superhooman-corp/go-util/codes"
+	"github.com/superhooman-corp/go-util/language"
 )
 
 func TestApp_Error(t *testing.T) {

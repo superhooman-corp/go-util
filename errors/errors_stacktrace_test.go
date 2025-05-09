@@ -3,7 +3,7 @@ package errors
 import (
 	"testing"
 
-	"github.com/orgs/superhooman-corp/codes"
+	"github.com/superhooman-corp/go-util/codes"
 )
 
 func Test_stacktrace_Error(t *testing.T) {

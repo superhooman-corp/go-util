@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/jmoiron/sqlx"
-	"github.com/orgs/superhooman-corp/log"
+	"github.com/superhooman-corp/go-util/log"
 )
 
 type Command interface {

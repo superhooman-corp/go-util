@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/orgs/superhooman-corp/codes"
-	"github.com/orgs/superhooman-corp/language"
 	"github.com/stretchr/testify/assert"
+	"github.com/superhooman-corp/go-util/codes"
+	"github.com/superhooman-corp/go-util/language"
 )
 
 func TestSetAcceptLanguage(t *testing.T) {

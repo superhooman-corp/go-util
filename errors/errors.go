@@ -7,9 +7,9 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/orgs/superhooman-corp/codes"
-	"github.com/orgs/superhooman-corp/language"
-	"github.com/orgs/superhooman-corp/operator"
+	"github.com/superhooman-corp/go-util/codes"
+	"github.com/superhooman-corp/go-util/language"
+	"github.com/superhooman-corp/go-util/operator"
 )
 
 type App struct {

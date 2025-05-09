@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	mock_log "github.com/delosaqua/go-sdk/tests/mock/log"
-	"github.com/orgs/superhooman-corp/log"
+	"github.com/superhooman-corp/go-util/log"
 	"go.uber.org/mock/gomock"
 )
 

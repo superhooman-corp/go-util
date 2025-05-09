@@ -3,8 +3,8 @@ package codes
 import (
 	"math"
 
-	"github.com/orgs/superhooman-corp/language"
-	"github.com/orgs/superhooman-corp/operator"
+	"github.com/superhooman-corp/go-util/language"
+	"github.com/superhooman-corp/go-util/operator"
 )
 
 type Code uint32

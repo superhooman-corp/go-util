@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/orgs/superhooman-corp/language"
+	"github.com/superhooman-corp/go-util/language"
 )
 
 func TestCompile(t *testing.T) {

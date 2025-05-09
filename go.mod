@@ -1,4 +1,4 @@
-module github.com/orgs/superhooman-corp
+module github.com/superhooman-corp/go-util
 
 go 1.21.1
 
@@ -21,5 +21,6 @@ require (
 	github.com/olekukonko/ts v0.0.0-20171002115256-78ecb04241c0
 	github.com/rs/zerolog v1.34.0
 	github.com/stretchr/testify v1.10.0
+	go.mongodb.org/mongo-driver v1.17.3
 	golang.org/x/sys v0.25.0 // indirect
 )
